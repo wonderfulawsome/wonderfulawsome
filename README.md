@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-## 👨‍💻 About Me
+## 👨‍💻 Data Analyst / Data Scientist 
 I am a passionate Data Professional focused on creating value through data-driven problem solving. Currently pursuing a role as a Data Analyst with aspirations to grow into a Data Scientist position.
 
 ## 🎯 Professional Focus

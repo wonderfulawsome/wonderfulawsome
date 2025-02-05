@@ -6,7 +6,7 @@ I am a passionate Data Professional focused on creating value through data-drive
 ## 🎯 Professional Focus
 - **Data Analysis & Science**: Transforming data possibilities into business reality
 - **Value Creation**: Delivering actionable insights through data-driven approaches
-- **Career Path**: Data Analyst ➡️ Data Scientist
+- **Career Path**: Data Analyst / Data Scientist
 
 ## 🚩 Areas of Interest
 - **Analytics**

@@ -18,10 +18,9 @@ I am a passionate Data Professional focused on creating value through data-drive
   - Dashboard Development
   - Data Storytelling
 - **Natural Language Processing**
-  - Large Language Models (LLM)
-  - Small Language Models (sLLM)
+  - Natural Language Toolkit (NLTK)
   - Prompt Engineering
-  - Retrieval Augmented Generation (RAG)
+  - Large Language Model  (LLM)
 - **Decision Sciences**
   - Multi-Criteria Decision Making
 
